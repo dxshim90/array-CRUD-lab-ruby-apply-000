@@ -16,19 +16,17 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-<<<<<<< HEAD
   array.pop
 end
 
 def remove_element_from_start_of_array(array)
 array.shift
-=======
+
   last_item = create_an_array.pop
 end
 
 def remove_element_from_start_of_array(array)
 
->>>>>>> 2743002a29fbc296e575bccdefffe58e658e739e
 end
 
 def retrieve_element_from_index(array, index_number)
